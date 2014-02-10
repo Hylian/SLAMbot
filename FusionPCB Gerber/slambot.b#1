@@ -120,8 +120,8 @@
 <hole x="18.7757" y="77.3684" drill="3.175"/>
 <hole x="62.611" y="77.3684" drill="3.175"/>
 <text x="80.01" y="54.61" size="1.016" layer="21">3.3V</text>
-<text x="80.01" y="50.8" size="1.016" layer="21">&lt;-</text>
-<text x="80.01" y="52.705" size="1.016" layer="21">-&gt;</text>
+<text x="80.01" y="50.8" size="1.016" layer="21">←</text>
+<text x="80.01" y="52.705" size="1.016" layer="21">→</text>
 <text x="80.01" y="48.5775" size="1.016" layer="21">GND</text>
 <text x="80.01" y="42.8625" size="1.016" layer="21">GND</text>
 <text x="80.01" y="40.3225" size="1.016" layer="21">3.3V</text>
@@ -1190,8 +1190,8 @@
 <wire x1="29.972" y1="15.24" x2="29.972" y2="0" width="0" layer="20"/>
 <wire x1="29.972" y1="15.24" x2="53.848" y2="15.24" width="0" layer="20"/>
 <wire x1="53.848" y1="15.24" x2="53.848" y2="0" width="0" layer="20"/>
-<text x="80.01" y="37.592" size="1.016" layer="21">&lt;-</text>
-<text x="80.01" y="34.925" size="1.016" layer="21">-&gt;</text>
+<text x="80.01" y="37.592" size="1.016" layer="21">←</text>
+<text x="80.01" y="34.925" size="1.016" layer="21">→</text>
 </plain>
 <libraries>
 <library name="SFM-110-02-XXX-D-A">
